@@ -298,7 +298,10 @@ Se relacionan  por que se puede cerrar automaticamente  al ser aceptado
 
 
 - Realizar el merge de `ramaA` hacia `develop`.
+![alt text](image-23.png)
+
 - Crear un **pull request** desde `ramaA` hacia `develop`.
+
 - El pull request debe estar **configurado para requerir revisión y ser aprobado por el docente**.
 - Una vez completado el merge, eliminar las ramas `ramaA` y `ramaB` tanto local como remotamente.
 
