@@ -282,14 +282,26 @@ Se relacionan  por que se puede cerrar automaticamente  al ser aceptado
 **📝 Respuesta:**
 
 - Crear dos ramas llamadas `ramaA` y `ramaB`, ambas a partir de la rama `main`.
+![alt text](image-19.png)
+![alt text](image-20.png)
+
 - En `ramaA`, crear un archivo llamado `archivoA.txt` con el contenido:  
   `Contenido A`
+  ![alt text](image-21.png)
+
 - En `ramaB`, crear un archivo con el mismo nombre (`archivoA.txt`), pero con el contenido:  
   `Contenido B`
-- Intentar fusionar `ramaB` sobre `ramaA`, lo cual debe generar un conflicto.
+  ![alt text](image-22.png)
+
 - Resolver el conflicto combinando ambos contenidos (por ejemplo: `Contenido combinado A+B`).
+![alt text](image-18.png)
+
+
 - Realizar el merge de `ramaA` hacia `develop`.
+![alt text](image-23.png)
+
 - Crear un **pull request** desde `ramaA` hacia `develop`.
+
 - El pull request debe estar **configurado para requerir revisión y ser aprobado por el docente**.
 - Una vez completado el merge, eliminar las ramas `ramaA` y `ramaB` tanto local como remotamente.
 
