@@ -338,7 +338,9 @@ Se relacionan  por que se puede cerrar automaticamente  al ser aceptado
 - Eliminar los archivos `archivoA.txt` y `archivoB.txt` creados en preguntas anteriores.
 ![alt text](image-27.png)
 - Realizar un merge desde `develop` hacia `main` en el repositorio local.
-![alt text](image-29.png)
+![alt text](image-30.png)
 - Enviar los cambios de la rama `main` local a la rama `develop` del repositorio remoto (fork).
-
+![alt text](image-31.png)
 - Finalmente, crear un **pull request** desde la rama `develop` del fork hacia la rama `main` del repositorio original (del cual se realizó el fork en la Pregunta 1), en la descripción colocar el link de su repositorio de GitHub.
+![alt text](image-32.png)
+
